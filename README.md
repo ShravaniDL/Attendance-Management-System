@@ -3,20 +3,21 @@ The Attendance Management System is a digital way to take attendance. It keeps a
 <br>
 author - Shravani D L 
 1. Setup (First Time)
-Sign up as an Admin user
+Sign up as an Admin use
+<br>
 The system will automatically create default classes
 Navigate to "Classes" to view or modify classes
-2. Add Students
+3. Add Students
 Go to "Students" section
 Click "+ Add Student"
 Fill in student details and select a class from the dropdown
 Save the student
-3. Mark Attendance
+4. Mark Attendance
 Go to "Attendance" section
 Select a date and class
 Mark students as Present/Absent/Leave using radio buttons
 Click "Save" to record attendance
-4. View Reports
+5. View Reports
 Go to "Reports" section
 Select class, date range, and date
 Click "Run" to generate attendance reports
