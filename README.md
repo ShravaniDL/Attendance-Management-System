@@ -48,4 +48,10 @@ A simple web-based Attendance Management System built using **Firebase** for rea
 ## 🧩 Technical Details
 
 ### 🗄️ Database Structure
+/users/{uid} - User profiles and roles
+/classes/{classId} - Class information
+/students/{studentId} - Student records
+/attendance/{date}/class_{classId}/{studentId} - Attendance records
+/holidays/{holidayId} - Holiday calendar
+/timetable/{classId} - Class timetables
 
